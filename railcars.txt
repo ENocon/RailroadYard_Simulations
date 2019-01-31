@@ -1,0 +1,11 @@
+109 DEN military
+521 SFE parrots
+817 COS military
+902 SFE coal
+334 PBO coal
+245 PBO parrots
+418 COS autos
+810 DEN autos
+456 PBO parrots
+133 SFE autos
+711 DEN coal
